@@ -29,10 +29,16 @@ Data handling with pandas/numpy for efficient processing.
 #project structure
 
 ├── app.py              # Streamlit app entry point
+
 ├── model/              # Saved trained model files
+
 ├── data/               # Sample datasets (e.g., comments.csv)
-├── preprocessing/      # Scripts for text cleaning and tokenization
+
+├── preprocessing/      # Scripts for text cleaning and tokenizatio
+
 ├── requirements.txt    # Dependencies
+
+
 └── README.md           # Project documentation
 Model Details
 Architecture: PyTorch-based neural network (can be CNN, LSTM, or Transformer depending on training script).
