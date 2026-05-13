@@ -26,7 +26,7 @@ Evaluation metrics (accuracy, precision, recall, F1-score) via scikit-learn.
 
 Data handling with pandas/numpy for efficient processing.
 
-## project structure
+#project structure
 
 ├── app.py              # Streamlit app entry point
 ├── model/              # Saved trained model files
